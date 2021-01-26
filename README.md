@@ -1,3 +1,3 @@
-# Exercice GitHub
+# GitHub Exercise
 
-Ce dépôt est utilisé pour un exercice dans le cadre du cours "Applications hypermédias" de l'automne 2020 au Cégep de Sherbrooke.
+This repository is used for a GitHub exercise in classes I teach at [Cégep de Sherbrooke](https://www.cegepsherbrooke.qc.ca/).
